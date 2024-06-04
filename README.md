@@ -1,8 +1,8 @@
-# situational-task-4
+# Innovatech VR Pro
 
-# [web-site](https://bekzat051102.github.io/situational-task-4/)
+# [Web-site](https://bekzat051102.github.io/situational-task-4/)
 
-# [video](https://youtu.be/h40rJ-Agu30)
+# [Video description](https://youtu.be/h40rJ-Agu30)
 
 Website Features:
 Product Information: Users can learn about the features and specifications of Innovatech VR Pro, including immersive VR experiences, advanced motion tracking, comfortable design, high-performance hardware, cross-platform compatibility, and more.
